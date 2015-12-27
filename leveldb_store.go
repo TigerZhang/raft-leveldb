@@ -1,7 +1,7 @@
 package raftleveldb
 
 import (
-	"github.com/hashicorp/raft"
+	"github.com/TigerZhang/raft"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/util"
 )
